@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1Ar3s_ysu69H8aaauLF58ZRe9ysUkZgok/view?usp=sharing)
 
-- ⚡ Know about my interests **open-source, competetive-coding, **
+- ⚡ Know about my interests **Open-Source, Competetive-Coding, Machine-Learning and Problem-Solving**
 
 - 🥇 Achievements: Awarded $50 USD for Top Idea Submission at KPMG International Hackathon, Ranked under Top 300 Data Scientists at Kaggle, Secured 3530th Position at Google Kickstart 2021
 
