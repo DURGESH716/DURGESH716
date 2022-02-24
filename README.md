@@ -6,7 +6,7 @@
 
 - 🔭 I’m **Data Analyst Professional Certified by Google**
 
-- 🌱 I’m currently Mastering **Machine Learning Based Algorithms**
+- 🌱 I’m currently Learning **Machine Learning Based Algorithms**
 
 - 👯 I’m looking to collaborate on **Hackathon Projects and open-source**
 
@@ -18,7 +18,10 @@
 
 - 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1Ar3s_ysu69H8aaauLF58ZRe9ysUkZgok/view?usp=sharing)
 
-- ⚡ Fun fact **I look younger than my age and I Like to Connect with People**
+- ⚡ Know about my interests **open-source, competetive-coding, **
+
+- 🥇 Achievements: Awarded $50 USD for Top Idea Submission at KPMG International Hackathon, Ranked under Top 300 Data Scientists at Kaggle, Secured 3530th Position at Google Kickstart 2021
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
