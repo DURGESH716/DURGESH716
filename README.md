@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **durgeshraobpl@gmail.com**
 
-- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1Ar3s_ysu69H8aaauLF58ZRe9ysUkZgok/view?usp=sharing)
+- 📄 How Good I am working with team **Strong Communication and Interpretational skills, Effective Team Work**
 
 - ⚡ Know about my interests **Open-Source, Competetive-Coding, Machine-Learning and Problem-Solving**
 
