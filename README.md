@@ -1,24 +1,24 @@
 <h1 align="center">Hi 👋, I'm Durgesh Rao</h1>
-<h3 align="center">A passionate Machine Learning Enthusiast from LNCT University, Bhopal, M.P</h3>
+<h3 align="center">A passionate Machine Learning Enthusiast from LNCT University, Bhopal</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/e87f7dd8b6aaf5063ba39297107b490f5d8f6ce77107ef90d35d825f22c49915/68747470733a2f2f692e696d6775722e636f6d2f6d3549653450372e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durgesh716&label=Profile%20views&color=0e75b6&style=flat" alt="durgesh716" /> </p>
 
-- 🔭 I’m currently working on **NLP with Twitter Analysis Project**
+- 🔭 I’m **Data Analyst Professional Certified by Google**
 
-- 🌱 I’m currently learning **Machine Learning Algorithms**
+- 🌱 I’m currently Mastering **Machine Learning Based Algorithms**
 
 - 👯 I’m looking to collaborate on **Hackathon Projects and open-source**
 
-- 👨‍💻 All of my projects are available at [https://www.kaggle.com/durgeshrao9993](https://www.kaggle.com/durgeshrao9993)
+- 👨‍💻 Have a look on my Data Science open-source Contributions at [Kaggle](https://www.kaggle.com/durgeshrao9993)
 
-- 💬 Ask me about **Python, Pandas, Matplotlib and Seaborn**
+- 💬 Ask me about **Data Science Related Questions and Case Studies**
 
 - 📫 How to reach me **durgeshraobpl@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Ar3s_ysu69H8aaauLF58ZRe9ysUkZgok/view?usp=sharing](https://drive.google.com/file/d/1Ar3s_ysu69H8aaauLF58ZRe9ysUkZgok/view?usp=sharing)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1Ar3s_ysu69H8aaauLF58ZRe9ysUkZgok/view?usp=sharing)
 
-- ⚡ Fun fact **I look younger than my age**
+- ⚡ Fun fact **I look younger than my age and I Like to Connect with People**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
