@@ -22,6 +22,7 @@
 
 - 🥇 Achievements: Awarded $50 USD for Top Idea Submission at KPMG International Hackathon, Ranked under Top 300 Data Scientists at Kaggle, Secured 3530th Position at Google Kickstart 2021
 
+- **Show 💗 by ⭐ My Repositories**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
