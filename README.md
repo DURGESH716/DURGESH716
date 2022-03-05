@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Hackathon Projects and open-source**
 
-- 👨‍💻 Have a look on my Data Science open-source Contributions at [Kaggle](https://www.kaggle.com/durgeshrao9993)
+- 👨‍💻 Have a look on my Data Science open-source Contributions at [Kaggle Profile Link](https://www.kaggle.com/durgeshrao9993)
 
 - 💬 Ask me about **Data Science Related Questions and Case Studies**
 
