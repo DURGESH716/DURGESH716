@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently Learning **Machine Learning Based Algorithms**
 
-- 👯 I’m looking to collaborate on **Hackathon Projects and open-source**
+- 👯 I’m looking to collaborate on **Hackathon Projects with new problems and innovate solution**
 
 - 👨‍💻 Have a look on my Data Science open-source Contributions at [Kaggle Profile Link](https://www.kaggle.com/durgeshrao9993)
 
