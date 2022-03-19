@@ -18,7 +18,7 @@
 
 - 📄 How Good I am working with team **Strong Communication and Interpretational skills, Effective Team Work**
 
-- ⚡ Know about my interests **Open-Source, Competetive-Coding, Machine-Learning and Problem Solving**
+- ⚡ Know about my interests **Open-Source, Competetive-Coding, Machine-Learning and Problem-Solving**
 
 - 🥇 Achievements: Awarded $50 USD for Top Idea Submission at KPMG International Hackathon, Ranked under Top 300 Data-Scientists at Kaggle, Secured 3530th Position at Google Kickstart 2021
 
