@@ -4,6 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durgesh716&label=Profile%20views&color=0e75b6&style=flat" alt="durgesh716" /> </p>
 
+![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/competition/light)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/dataset/light)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/notebook/light)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/discussion/light)
+
 - 🔭 I’m **Data Analyst Professional Certified by Google**
 
 - 🌱 I’m currently Learning **Machine Learning Based Algorithms**
