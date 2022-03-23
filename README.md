@@ -9,6 +9,8 @@
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/notebook/light)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/discussion/light)
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=durgesh716" alt="durgesh716" /></a>
+
 - 🔭 I’m **Data Analyst Professional Certified by Google**
 
 - 🌱 I’m currently Learning **Machine Learning Based Algorithms**
