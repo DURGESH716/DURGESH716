@@ -15,8 +15,7 @@
 
 - 🔭 I’m **Data Analyst Professional Certified by Google**
 - 🌱 I’m currently Learning **Machine Learning Based Algorithms**
-- 👯 I’m looking to collaborate on **Hackathon Projects with new problems and innovate solution**
-- 👨‍💻 Have a look on my Data Science open-source Contributions at [Kaggle Profile Link](https://www.kaggle.com/durgeshrao9993)
+- 👯 I’m looking to collaborate on **Hackathon Projects with new problems to give innovate solutions**
 - 💬 Ask me about **Data Science Related Questions and Case Studies**
 - 📫 How to reach me **durgeshraobpl@gmail.com**
 - 📄 How Good I am working with team **Strong Communication and Interpretational skills, Effective Team Work**
