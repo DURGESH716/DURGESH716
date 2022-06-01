@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Durgesh Rao</h1>
 <h3 align="center">A passionate and Curious Machine Learning Enthusiast</h3>
-<img align="right" alt="Coding" width="225" src="https://camo.githubusercontent.com/e87f7dd8b6aaf5063ba39297107b490f5d8f6ce77107ef90d35d825f22c49915/68747470733a2f2f692e696d6775722e636f6d2f6d3549653450372e676966">
+<img align="right" alt="Coding" width="250" src="https://camo.githubusercontent.com/e87f7dd8b6aaf5063ba39297107b490f5d8f6ce77107ef90d35d825f22c49915/68747470733a2f2f692e696d6775722e636f6d2f6d3549653450372e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durgesh716&label=Profile%20views&color=0e75b6&style=flat" alt="durgesh716" /> </p>
 
@@ -22,6 +22,9 @@
 
 - **Show 💗 by ⭐ My Repositories**
 
+ <img align="left" alt="Coding" width="200" src="https://images.credly.com/size/220x220/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png">
+ <img align="center" alt="Coding" width="200" src="https://images.credly.com/size/220x220/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png">
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/durgesh-rao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="durgesh-rao" height="30" width="40" /></a>
