@@ -4,19 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durgesh716&label=Profile%20views&color=0e75b6&style=flat" alt="durgesh716" /> </p>
 
-![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/competition/light)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/dataset/light)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/notebook/light)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/discussion/light)
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=durgesh716" alt="durgesh716" /></a>
 
 - 🔭 I’m **Data Analyst Professional Certified by Google**
-- 🌱 I’m currently Learning **Machine Learning Based Algorithms**
 - 👯 I’m looking to collaborate on **Hackathon Projects with new problems to give innovate solutions**
-- 💬 Ask me about **Data Science Related Questions and Case Studies**
 - 📫 How to reach me **durgeshraobpl@gmail.com**
-- 📄 How Good I am working with team **Strong Communication and Interpretational skills, Effective Team Work**
 - ⚡ Know about my interests **Open-Source, Competitive-Coding, Machine-Learning and Problem Solving**
 - 🥇 Achievements: **Awarded $50 USD for Top Idea Submission at KPMG International Hackathon, Ranked under Top 100 Data-Scientists at Kaggle, Secured 3530th Position at Google Kickstart 2021**
 
