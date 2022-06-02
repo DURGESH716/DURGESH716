@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋 I'm Durgesh Rao</h1>
 <h3 align="center">A passionate and Curious Machine Learning Enthusiast</h3>
 
-
 <img align="right" alt="Coding" width="230" src="https://camo.githubusercontent.com/e87f7dd8b6aaf5063ba39297107b490f5d8f6ce77107ef90d35d825f22c49915/68747470733a2f2f692e696d6775722e636f6d2f6d3549653450372e676966">
-
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durgesh716&label=Profile%20views&color=0e75b6&style=flat" alt="durgesh716" /> </p>
 
@@ -19,9 +16,10 @@
 - 👯 I’m looking to collaborate on **Hackathon Projects with new problems to give innovate solutions**
 - 📫 How to reach me **durgeshraobpl@gmail.com**
 - ⚡ Know about my interests **Open-Source, Competitive-Coding, Machine-Learning and Problem Solving**
-- 🥇 Achievements: **Awarded $50 USD for Top Idea Submission at KPMG International Hackathon, Ranked under Top 100 Data-Scientists at Kaggle, Secured 3530th Position at Google Kickstart 2021**
-
-- **Show 💗 by ⭐ My Repositories**
+ <h3 align="left">Achievements & Awards:</h3>
+- 🥇 **Awarded $50 USD for Top Idea Submission at KPMG International Hackathon**
+- 🥇 **Ranked under Top 1% Data-Scientists at Kaggle** 
+- 🥇 **Secured 3530th Position at Google Kickstart 2021**
 
  <img align="left" alt="Coding" width="200" src="https://images.credly.com/size/220x220/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png">
  <img align="center" alt="Coding" width="200" src="https://images.credly.com/size/220x220/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png">
