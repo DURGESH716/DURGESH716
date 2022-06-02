@@ -2,7 +2,7 @@
 <h3 align="center">A passionate and Curious Machine Learning Enthusiast</h3>
 
 
-<img align="right" alt="Coding" width="220" src="https://camo.githubusercontent.com/e87f7dd8b6aaf5063ba39297107b490f5d8f6ce77107ef90d35d825f22c49915/68747470733a2f2f692e696d6775722e636f6d2f6d3549653450372e676966">
+<img align="right" alt="Coding" width="230" src="https://camo.githubusercontent.com/e87f7dd8b6aaf5063ba39297107b490f5d8f6ce77107ef90d35d825f22c49915/68747470733a2f2f692e696d6775722e636f6d2f6d3549653450372e676966">
 
 
 
