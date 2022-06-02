@@ -25,7 +25,8 @@
 
  <img align="left" alt="Coding" width="200" src="https://images.credly.com/size/220x220/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png">
  <img align="center" alt="Coding" width="200" src="https://images.credly.com/size/220x220/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png">
- <img align="center" alt="Coding" width="200" src="https://images.credly.com/size/220x220/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png">
+ <img align="left" alt="Coding" width="200" src="https://images.credly.com/size/220x220/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png">
+ <img align="center" alt="Coding" width="200" src="https://images.credly.com/size/220x220/images/7d59a314-d9bd-4ed9-80dd-9f3af94d77d1/Data_Analytics_Essentials.png">
  
  
 <h3 align="left">Connect with me:</h3>
