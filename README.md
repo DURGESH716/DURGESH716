@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Durgesh Rao</h1>
-<h3 align="right">A passionate and Curious Machine Learning Enthusiast</h3>
+<h3 align="center">A passionate and Curious Machine Learning Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durgesh716&label=Profile%20views&color=0e75b6&style=flat" alt="durgesh716" /> </p>
 
