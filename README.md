@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋 I'm Durgesh Rao</h1>
 <h3 align="center">A passionate and Curious Machine Learning Enthusiast</h3>
-<p> </p>
-<img align="center" alt="Coding" width="400" src="https://i0.wp.com/www.wetory.eu/wp-content/uploads/2019/01/giphy-small.gif?fit=300%2C225&ssl=1">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durgesh716&label=Profile%20views&color=0e75b6&style=flat" alt="durgesh716" /> </p>
+
+<img align="center" alt="Coding" src="https://res.cloudinary.com/hevo/images/f_auto,q_auto/v1627271567/hevo-learn/Marketing-Data-Analyst-2/Marketing-Data-Analyst-2.png?_i=AA">
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=durgesh716&theme=onestar)](https://github.com/durgesh716/github-profile-trophy)
