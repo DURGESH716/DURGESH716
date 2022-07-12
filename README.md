@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋 I'm Durgesh Rao</h1>
-<h2 align="center">A Passionate and Curious Machine Learning Enthusiast</h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&color=B9B0F7&background=363FFF00&center=true&vCenter=true&multiline=true&width=1000&height=190&lines=Hi%F0%9F%91%8B++I'm+Durgesh+Rao;Passionate+Data+Scientist;Machine+Learning+Engineer)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durgesh716&label=Profile%20views&color=0e75b6&style=flat" alt="durgesh716" /> </p>
 
