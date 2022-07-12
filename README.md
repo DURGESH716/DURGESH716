@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durgesh716&label=Profile%20views&color=0e75b6&style=flat" alt="durgesh716" /> </p>
 
-<img align="center" alt="Coding" src="https://res.cloudinary.com/hevo/images/f_auto,q_auto/v1627271567/hevo-learn/Marketing-Data-Analyst-2/Marketing-Data-Analyst-2.png?_i=AA">
-
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=durgesh716&theme=onestar)](https://github.com/durgesh716/github-profile-trophy)
 
