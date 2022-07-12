@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&color=B9B0F7&background=363FFF00&center=true&vCenter=true&multiline=true&width=1000&height=190&lines=Hi%F0%9F%91%8B++I'm+Durgesh+Rao;Passionate+Data+Scientist;Machine+Learning+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&color=B9B0F7&background=363FFF00&center=true&vCenter=true&multiline=true&width=1000&height=185&lines=Hi%F0%9F%91%8B++I'm+Durgesh+Rao;Passionate+Data+Scientist;Machine+Learning+Engineer)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durgesh716&label=Profile%20views&color=0e75b6&style=flat" alt="durgesh716" /> </p>
 
@@ -17,7 +17,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/durgesh-rao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="durgesh-rao" height="30" width="40" /></a>
 <a href="https://kaggle.com/durgeshrao9993" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="durgeshrao9993" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/dr9993" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dr9993" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/durgeshraobpl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="durgeshraobpl" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/durgeshraobpl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="durgeshraobpl" height="30" width="40" /></a>
 </p>
