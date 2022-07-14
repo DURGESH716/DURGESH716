@@ -8,7 +8,7 @@
 - 🔭 I’m **Data Analyst Professional Certified by Google**
 - 👯 I’m looking to collaborate on **Hackathon Projects with new problems to give innovate solutions**
 - 📫 How to reach me **durgeshraobpl@gmail.com**
-- ⚡ Know about my interests **Open-Source, Competitive-Coding, Machine-Learning and Problem Solving**
+- ⚡ Know about my interests **Open-Source, Artificial Intelligence, Machine-Learning and Problem Solving**
 - 🥇 **Awarded $50 USD for Top Idea Submission at KPMG International Hackathon**
 - 🥇 **Ranked under Top 1% Data-Scientists at Kaggle**
 - 🥇 **Secured 3530th Position at Google Kickstart 2021**
