@@ -6,9 +6,7 @@
 <br>
 <br>
 [![@durgesh716's Holopin board](https://holopin.me/durgesh716)](https://holopin.io/@durgesh716)
-<!--
-[![@durgesh716's Holopin board](https://holopin.me/durgesh716)](https://holopin.io/@durgesh716)
--->
+
 
 - 🔭 I’m **Data Analyst Professional Certified by Google**
 - 👯 I’m looking to collaborate on **Hackathon Projects to give innovate solutions**
