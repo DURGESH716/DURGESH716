@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durgesh716&label=Profile%20views&color=0e75b6&style=for-the-badge&logo=appveyor" alt="durgesh716" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=durgesh716&theme=onestar)](https://github.com/durgesh716/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=durgesh716&theme=onestar&rank=-B)](https://github.com/durgesh716/github-profile-trophy)
 <br>
 <br>
 [![@durgesh716's Holopin board](https://holopin.me/durgesh716)](https://holopin.io/@durgesh716)
