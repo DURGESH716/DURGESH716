@@ -10,7 +10,7 @@
 
 - 🔭 I’m **Deep Learning Specialized by deeplearning.ai**
 - 📫 How to reach me **durgeshraobpl@gmail.com**
-- ⚡ Know about my interests **Open-Source, Artificial Intelligence, Machine-Learning and Problem Solving**
+- ⚡ Know about my interests **Open-Source, Artificial Intelligence, Machine-Learning, Research and Problem Solving**
 - 🥇 **Awarded $50 USD for Top Idea Submission at KPMG International Hackathon**
 
 <h3 align="left">Connect with me:</h3>
