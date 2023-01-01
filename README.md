@@ -8,13 +8,10 @@
 [![@durgesh716's Holopin board](https://holopin.me/durgesh716)](https://holopin.io/@durgesh716)
 
 
-- 🔭 I’m **Data Analyst Professional Certified by Google**
-- 👯 I’m looking to collaborate on **Hackathon Projects to give innovate solutions**
+- 🔭 I’m **Deep Learning Specialized by deeplearning.ai**
 - 📫 How to reach me **durgeshraobpl@gmail.com**
 - ⚡ Know about my interests **Open-Source, Artificial Intelligence, Machine-Learning and Problem Solving**
 - 🥇 **Awarded $50 USD for Top Idea Submission at KPMG International Hackathon**
-- 🥇 **Ranked under Top 1% Data-Scientists at Kaggle**
-- 🥇 **Secured 3530th Position at Google Kickstart competition**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
