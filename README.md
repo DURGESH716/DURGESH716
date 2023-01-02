@@ -8,7 +8,6 @@
 [![@durgesh716's Holopin board](https://holopin.me/durgesh716)](https://holopin.io/@durgesh716)
 
 
-- 🔭 I’m **Deep Learning Specialized by deeplearning.ai**
 - 📫 How to reach me **durgeshraobpl@gmail.com**
 - ⚡ Know about my interests **Open-Source, Artificial Intelligence, Machine-Learning, Research and Problem Solving**
 
