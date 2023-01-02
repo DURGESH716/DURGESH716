@@ -34,6 +34,3 @@
 
 
  [![Durgesh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=durgesh716&theme=merko)](https://github.com/durgesh716/github-readme-activity-graph)
- 
- 
- [![Check out DURGESH716's profile on stardev.io](https://stardev.io/developers/DURGESH716/badge/languages/global.svg)](https://stardev.io/developers/DURGESH716)
