@@ -12,6 +12,8 @@
 - 📫 How to reach me **durgeshraobpl@gmail.com**
 - ⚡ Know about my interests **Open-Source, Artificial Intelligence, Machine-Learning, Research and Problem Solving**
 
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/durgesh-rao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="durgesh-rao" height="30" width="40" /></a>
