@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DURGESH716&label=Profile%20views&color=0e75b6&style=for-the-badge&logo=appveyor" alt="durgesh716" /> </p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=durgesh716&theme=radical)
+![trophy](https://github-profile-trophy.vercel.app/?username=durgesh716&theme=radical&rank=-C,-B)
 <!-- ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/competition)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/dataset)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/notebook)
