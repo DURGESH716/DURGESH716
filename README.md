@@ -9,7 +9,7 @@
 <!-- ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/competition)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/dataset)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/notebook)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/discussion) --> 
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/discussion)  -->
 
 <!-- <p align="right"> <img src="https://novacene.ai/wp-content/uploads/2020/10/records-classification-automation-930x602.png" alt="durgesh716" style="width:250px;height:250px;/> </p>
  -->
@@ -38,8 +38,8 @@
 
 ![Durgesh's GitHub stats](https://github-readme-stats-two-nu-79.vercel.app/api?username=durgesh716&show_icons=true&theme=merko)
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DURGESH716&theme=merko" alt="DURGESH716" /> </p> 
+<!-- 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DURGESH716&theme=merko" alt="DURGESH716" /> </p>  -->
 
 
  [![Durgesh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=durgesh716&theme=merko)](https://github.com/durgesh716/github-readme-activity-graph)
