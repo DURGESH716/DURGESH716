@@ -6,10 +6,10 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=durgesh716&theme=onestar&row=1&column=8)
 
-<!-- ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/competition)
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/competition)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/dataset)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/notebook)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/discussion)  -->
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/discussion) 
 
 <!-- <p align="right"> <img src="https://novacene.ai/wp-content/uploads/2020/10/records-classification-automation-930x602.png" alt="durgesh716" style="width:250px;height:250px;/> </p>
  -->
