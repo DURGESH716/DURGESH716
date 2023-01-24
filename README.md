@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DURGESH716&label=Profile%20views&color=0e75b6&style=for-the-badge&logo=appveyor" alt="durgesh716" /> </p>
 
-<!-- <p align="right"> <img src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" width = "300px" height="300px"> </p> -->jj
+<!-- <p align="right"> <img src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" width = "300px" height="300px"> </p> -->
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=durgesh716&theme=onestar&row=1&column=8)
 
