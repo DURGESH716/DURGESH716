@@ -29,7 +29,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/durgesh-rao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="durgesh-rao" height="30" width="40" /></a>
 <a href="https://kaggle.com/durgeshrao9993" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="durgeshrao9993" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/durgeshraobpl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="durgeshraobpl" height="30" width="40" /></a>
 </p>
 
 
