@@ -1,8 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&multiline=true&width=750&height=150&lines=Hello+%F0%9F%91%8B%2C+I'm+Durgesh+Rao;Ranked+Under+Top+1%25+Kagglers+%E2%9C%A8;Passionate+%F0%9F%A4%96+Machine+Learning+Engineer)](https://git.io/typing-svg)
 
-<p align="center"> <img  height="35" src="https://komarev.com/ghpvc/?username=DURGESH716&label=Profile%20views&color=0e75b6&logo=appveyor" alt="durgesh716" /> 
+<p align="center"><a href="https://www.kaggle.com/durgeshrao9993"><img height="30" src="https://img.shields.io/badge/Kaggle-profile-%230e75b6"></a>
  <br>
-<a href="https://www.kaggle.com/durgeshrao9993"><img height="35" src="https://img.shields.io/badge/Kaggle-profile-%230e75b6"></a></p>
+ <img  height="30" src="https://komarev.com/ghpvc/?username=DURGESH716&label=Profile%20views&color=0e75b6&logo=appveyor" alt="durgesh716" /> 
+ </p>
 
 <!-- <p align="right"> <img src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" width = "300px" height="300px"> </p> -->
 
