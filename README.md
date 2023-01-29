@@ -1,6 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&multiline=true&width=750&height=150&lines=Hello+%F0%9F%91%8B%2C+I'm+Durgesh+Rao;Ranked+Under+Top+1%25+Kagglers+%E2%9C%A8;Passionate+%F0%9F%A4%96+Machine+Learning+Engineer)](https://git.io/typing-svg)
 
-<p align="center"><a href="https://www.kaggle.com/durgeshrao9993"><img height="30" src="https://img.shields.io/badge/Kaggle-profile-%230e75b6"></a>
+<p align="center"><a href="https://www.kaggle.com/durgeshrao9993"><img height="30" src="https://img.shields.io/badge/Kaggle-Click-%230e75b6"></a> 
+ <a href="https://durgesh716.github.io/Portfolio-Website/"><img height="30" src="https://img.shields.io/badge/Portfolio-Click-%230e75b6"></a>
+ <a href="https://www.linkedin.com/in/durgesh-rao/"><img height="30" src="https://img.shields.io/badge/LinkedIn-Click-%230e75b6"></a>
  <br>
  <img  height="30" src="https://komarev.com/ghpvc/?username=DURGESH716&label=Profile%20views&color=0e75b6&logo=appveyor" alt="durgesh716" /> 
  </p>
@@ -25,11 +27,11 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/durgesh-rao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="durgesh-rao" height="30" width="40" /></a>
 <a href="https://kaggle.com/durgeshrao9993" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="durgeshrao9993" height="30" width="40" /></a>
-</p>
+</p> -->
 
 
 <h3 align="left">Languages and Tools:</h3>
