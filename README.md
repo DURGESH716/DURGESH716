@@ -9,7 +9,7 @@
 
 <!-- <p align="right"> <img src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" width = "300px" height="300px"> </p> -->
 
-![trophy](https://github-profile-trophy.vercel.app/?username=durgesh716&theme=onestar&row=1&column=8)<!--jjfjf-->
+![trophy](https://github-profile-trophy.vercel.app/?username=durgesh716&theme=onestar&row=1&column=8)
 
 <!-- ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/competition)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/dataset)
