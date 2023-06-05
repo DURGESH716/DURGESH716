@@ -45,5 +45,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DURGESH716&theme=merko" alt="DURGESH716" /> </p> 
 
-
- [![Durgesh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=durgesh716&theme=merko)](https://github.com/durgesh716/github-readme-activity-graph)
+<!-- 
+ [![Durgesh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=durgesh716&theme=merko)](https://github.com/durgesh716/github-readme-activity-graph) -->
