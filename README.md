@@ -12,7 +12,7 @@
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/discussion/" />
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/notebook/" />
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/dataset/" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/competition/" /> 
+<!--   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/competition/" />  -->
 </p>
 
 <p align="center"><a href="https://www.kaggle.com/durgeshrao9993"><img height="30" src="https://img.shields.io/badge/Kaggle-Click-%230e75b6"></a> 
