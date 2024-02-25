@@ -8,16 +8,16 @@
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/notebook)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/discussion) -->
 
-<p align="center">
+<!--<p align="center">
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/discussion/" />
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/notebook/" />
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/dataset/" />
 <!--   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/competition/" />  -->
-</p>
+</p>-->
 
 <p align="center"><a href="https://www.kaggle.com/durgeshrao9993"><img height="30" src="https://img.shields.io/badge/Kaggle-Click-%230e75b6"></a> 
  <a href="https://durgesh716.github.io/Portfolio-Website/"><img height="30" src="https://img.shields.io/badge/Portfolio-Click-%230e75b6"></a>
- <img height="30" src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/durgeshrao9993" />
+<!--  <img height="30" src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/durgeshrao9993" /> -->
  <a href="https://www.linkedin.com/in/durgesh-rao/"><img height="30" src="https://img.shields.io/badge/LinkedIn-Click-%230e75b6"></a>
  <img  height="30" src="https://komarev.com/ghpvc/?username=DURGESH716&label=Profile%20views&color=0e75b6&logo=appveyor" alt="durgesh716" /> 
  </p>
