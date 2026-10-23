@@ -1,64 +1,57 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&multiline=true&width=750&height=150&lines=Hello+%F0%9F%91%8B%2C+I'm+Durgesh+Rao;Ranked+Under+Top+1%25+Kagglers+%E2%9C%A8;Passionate+%F0%9F%A4%96+Machine+Learning+Engineer)](https://git.io/typing-svg)
+# Hi, I'm Durgesh Rao 👋
 
-<!--
-![your id](https://road-to-kaggle-grandmaster.vercel.app/api/simple/durgeshrao9993)
+**AI Researcher & Engineer** working on one question: *when an AI model explains its answer or describes a medical image, can we trust what it says?*
 
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/competition)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/dataset)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/notebook)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/discussion) -->
+My research focuses on **explanation faithfulness** and **hallucination detection** in large language and vision-language models, with an emphasis on medical imaging.
 
-<!--<p align="center">
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/discussion/" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/notebook/" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/dataset/" />
-<!--   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/competition/" />  -->
-<!--</p>-->
+<p>
+  <a href="https://scholar.google.com/citations?user=17YjAOAAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
+  <a href="https://openreview.net/profile?id=~Durgesh_Rao1"><img src="https://img.shields.io/badge/OpenReview-8C1B13?style=flat" alt="OpenReview"></a>
+  <a href="https://orcid.org/0009-0002-2779-7032"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID"></a>
+  <a href="https://www.linkedin.com/in/durgesh-rao/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.kaggle.com/durgeshrao9993"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle"></a>
+  <a href="mailto:durgeshraobpl@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-<p align="center"><a href="https://www.kaggle.com/durgeshrao9993"><img height="30" src="https://img.shields.io/badge/Kaggle-Click-%230e75b6"></a> 
- <a href="https://durgesh716.github.io/Portfolio-Website/"><img height="30" src="https://img.shields.io/badge/Portfolio-Click-%230e75b6"></a>
-<!--  <img height="30" src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/durgeshrao9993" /> -->
- <a href="https://www.linkedin.com/in/durgesh-rao/"><img height="30" src="https://img.shields.io/badge/LinkedIn-Click-%230e75b6"></a>
- <img  height="30" src="https://komarev.com/ghpvc/?username=DURGESH716&label=Profile%20views&color=0e75b6&logo=appveyor" alt="durgesh716" /> 
- </p>
+---
 
-<!-- <p align="right"> <img src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" width = "300px" height="300px"> </p> -->
+### 🔬 Currently
 
-<!--![trophy](https://github-profile-trophy.vercel.app/?username=durgesh716&theme=onestar&row=1&column=8)-->
+- **AI Engineer** at [ZenteiQ.ai](https://zenteiq.ai), building scientific foundation models
+- **M.Tech** at IIIT Dharwad, advised by Dr. Shirshendu Layek
 
-<!-- ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/competition)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/dataset)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/notebook)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/discussion)  -->
+### 📄 Publications
 
-<!-- <p align="right"> <img src="https://novacene.ai/wp-content/uploads/2020/10/records-classification-automation-930x602.png" alt="durgesh716" style="width:250px;height:250px;/> </p>
- -->
+- **What Does Answer Change Rate Actually Measure? A Specificity Audit of Causal Intervention Tests for Explanation Faithfulness**
+  Durgesh Rao, Shirshendu Layek · *GroundLM Workshop @ EMNLP 2026*
+  [[Paper]](https://openreview.net/forum?id=J77Co5444D) [[Code]](https://github.com/DURGESH716/Causal-Intervention-Tests-For-Explanation-Faithfulness-LLMs)
 
-[![@durgesh716's Holopin board](https://holopin.me/durgesh716)](https://holopin.io/@durgesh716)
+- **Efficient Deep Learning Model for Analyzing Muscle Activity Patterns in Biomechanical Simulations**
+  Dharmendra Dangi, Dheeraj Kumar Dixit, Amit Bhagat, Durgesh Rao, Jeetendra Kumar Gupta · *SN Computer Science (Springer), 2025*
+  [[Paper]](https://link.springer.com/article/10.1007/s42979-024-03651-1)
 
+### 🛠️ Selected Projects
 
-- 📫 How to reach me **durgeshraobpl@gmail.com**
-- ⚡ Know about my interests **Open-Source, Machine-Learning, Deep-Learning, Advanced Computer Vision, Multimodal-AI, LLMs**
+| Project | Description |
+|---|---|
+| [Hard Reasoning Benchmark](https://github.com/DURGESH716/Creating-Hard-Reasoning-Benchmark) | Reasoning benchmark built by filtering problems with model-disagreement scores |
+| [Llama-8B GRPO](https://github.com/DURGESH716/LLaMA-8B-GRPO-Reinforcement-Learning) | RL fine-tuning of Llama-8B-Instruct on Python code with Group Relative Policy Optimization |
+| [MedGemma Medical VLM](https://github.com/DURGESH716/Multimodal_MedGemma_FineTuned_AI_Medical_System) | LoRA fine-tuning of MedGemma 1.5 on CT, MRI and X-ray images, with a Gradio demo |
+| [Retinal Diagnostic VLM](https://github.com/DURGESH716/Fine_tuned_Multimodal_AI_Retinal_Diagnostic_System) | Qwen2.5-VL-7B fine-tuned with LoRA and medical distillation for retinal diagnosis |
+| [Fake Instagram Profile Detection](https://github.com/DURGESH716/Fake-Instagram-Profile-Detection) | Neural network classifier for fake social media profiles |
 
+### 🏛️ Previously
 
+- **DRDO (DEBEL), Bengaluru** · Graduate Research Fellow, biomedical engineering
+- **DIAT, Pune** · Anomaly detection on maritime traffic data with the Indian Navy
+- **ISRO Space Applications Centre** · Collocating INSAT-3D satellite data with NASA's CERES
+- **MANIT Bhopal** · Deep learning for sports biomechanics
 
-<!-- <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/durgesh-rao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="durgesh-rao" height="30" width="40" /></a>
-<a href="https://kaggle.com/durgeshrao9993" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="durgeshrao9993" height="30" width="40" /></a>
-</p> -->
+### 🏆 Recognition
 
+- Kaggle **Discussions Grandmaster** · Notebooks Master · Datasets Expert
+- Winner, **Kavach Cybersecurity Hackathon** (BPR&D, Ministry of Home Affairs)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a></a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### 🧰 Tools
 
-
-<!--[![Top Langs](https://github-readme-stats-two-nu-79.vercel.app/api/top-langs/?username=durgesh716&layout=compact&theme=merko)](https://github.com/durgesh716/github-readme-stats)-->
-
-<!--![Durgesh's GitHub stats](https://github-readme-stats-two-nu-79.vercel.app/api?username=durgesh716&show_icons=true&theme=merko)-->
-
-
-<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DURGESH716&theme=merko" alt="DURGESH716" /> </p>-->
-
-<!--
- [![Durgesh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=durgesh716&theme=merko)](https://github.com/durgesh716/github-readme-activity-graph)-->
+Python · PyTorch · Hugging Face Transformers · PEFT / LoRA · TensorFlow · scikit-learn · OpenCV · GCP · Azure
